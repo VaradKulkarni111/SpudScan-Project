@@ -1,5 +1,5 @@
 # SpudScan-Project
-Potato Disease Classification with help of Machine Learning Algorithm
+Potato Disease Classification ~ End to End Project.
 
 # Steps Involved:
 For Python
